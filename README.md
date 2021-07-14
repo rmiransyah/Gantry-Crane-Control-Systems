@@ -1,5 +1,5 @@
 # Gantry Crane Control Systems
-These are my gantry crane control simulations. Model designed by 2D approach and produced 2-DOF system. Categorized as SIMO model, with reference position as an input and the outputs are crane position and payload sway angle.
+<div text-align='justify'> These are my gantry crane control simulations. Model designed by 2D approach and produced 2-DOF system. Categorized as SIMO model, with reference position as an input and the outputs are crane position and payload sway angle. </div>
 <p align="center">
   <img align="center" src="https://github.com/rmiransyah/Gantry-Crane-Control-Systems/blob/main/images/model.jpg" >
 </p>
